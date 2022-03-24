@@ -2,7 +2,7 @@
 
 ## What is this?
 
-This is a repository contains files and content for the [DEI WG](https://us-rse.org/wg/dei/) within the [United States Research Software Engineer Association (US-RSE)](https://us-rse.org/).
+This repository contains files and content for the [DEI WG](https://us-rse.org/wg/dei/) within the [United States Research Software Engineer (US-RSE) Association](https://us-rse.org/).
 
 ## How do I contribute?
 
