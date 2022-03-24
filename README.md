@@ -9,7 +9,7 @@ This repository contains files and content for the [DEI WG](https://us-rse.org/w
 Anyone can [open an issue](https://github.com/USRSE/dei-wg/issues/new/choose) on this repository to make suggestions, ask questions, etc.
 
 ## Join the WG!
-First, you should [join US-RSE](https://us-rse.org/join/) and check out how to [Get Involved](https://us-rse.org/get-involved/), including joining our Slack Workspace.  Once you have joined the Slack, head over to the `#dei-discussion` channel and ping `@dei-wg` a request to be added to the DEI WG.  We have bi-weekly meetings that you can join, and active members of the WG are given access to our Shared Google Drive content as well as this repo.
+First, you should [join US-RSE](https://us-rse.org/join/) and check out how to [Get Involved](https://us-rse.org/get-involved/), including joining our Slack Workspace.  Once you have joined the Slack, head over to the `#dei-discussion` channel and ping `@dei-wg` with a request to be added to the DEI WG.  We have bi-weekly meetings that you can join, and active members of the WG are given access to our Shared Google Drive content as well as this repo.
 
 ## Our Projects
 You can find more details about the DEI WG on the website, but here is a shortlist of our main projects:
