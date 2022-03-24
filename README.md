@@ -18,3 +18,5 @@ You can find more details about the DEI WG on the website, but here is a shortli
 * **Diversity in Leadership** - We are having ongoing discussions with US-RSE leadership about diversity in our election process.
 * **DEI Resources/Toolkit** - We are compiling a set of DEI resources and tools that are relevant to the RSE community especially that we intend to share as toolkit for everyone from individuals to organizations that will help them engage with and improve DEI in our community.
 * **Membership Survey** - We are working on creating an annual membership survey that can help us to keep track of important metrics, get community feedback, and find areas of concern to help inform us where our efforts are needed most.
+
+If you want to start another project, please start by discussing it on the `#dei-discussion` channel of the US-RSE Slack
